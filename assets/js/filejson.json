@@ -1,0 +1,31 @@
+{
+	"home"   : 
+	{
+		"Nama" : "Fildza Sakinah Alnaz",
+		"NIM"  : "1303174010",
+		"Kelas": "IT-41-02"
+	},
+	"about"   : "apa saja",
+	"hobbies" : [
+		"nonton film",
+		"nyemil",
+		"denger lagu"
+	],
+	"skills"   : [
+		"aaa",
+		"bbb",
+		"ccc"
+	],
+	"education" : [
+		"TK Puspa Bintang",
+		"SDIT Nur Hikmah",
+		"SMPI Darussalam",
+		"SMAI Darussalam",
+		"Telkom University"
+	],
+	"experience"  : [
+		"belajar python",
+		"belajar javascript",
+		"belajar css"
+	]
+}
